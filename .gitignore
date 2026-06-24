@@ -48,3 +48,7 @@ app.*.map.json
 /play-store-assets/*.aab
 /play-store-assets/*.apk
 
+# Firebase secrets (copy from *.example or run: flutterfire configure)
+/lib/firebase_options.dart
+/android/app/google-services.json
+

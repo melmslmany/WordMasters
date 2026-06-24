@@ -1,6 +1,19 @@
 # word_search_game
 
-A new Flutter project.
+Word Masters — Flutter word puzzle game (`com.emexp.PureApp`).
+
+## Firebase setup (required after clone)
+
+Secrets are not committed. On a new machine:
+
+```bash
+cp lib/firebase_options.example.dart lib/firebase_options.dart
+cp android/app/google-services.json.example android/app/google-services.json
+# Fill keys from Firebase Console, or run:
+flutterfire configure --project=games-dc530
+```
+
+Restrict API keys in [Google Cloud Console](https://console.cloud.google.com/apis/credentials) by Android package name and HTTP referrer.
 
 ## Getting Started
 
