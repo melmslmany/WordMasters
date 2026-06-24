@@ -1,7 +1,7 @@
 name: word_search_game
 description: Word Masters — neon word puzzle game with classic search and word guess modes.
 publish_to: 'none'
-version: 1.0.0+2
+version: 1.0.0+1
 
 environment:
   sdk: ^3.11.5

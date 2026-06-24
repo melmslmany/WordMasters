@@ -12,7 +12,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace "com.emexp.PureApp"
+    namespace "com.wordsearch.WordMasters"
     compileSdk flutter.compileSdkVersion
     ndkVersion flutter.ndkVersion
 
@@ -26,7 +26,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.emexp.PureApp"
+        applicationId "com.wordsearch.WordMasters"
         minSdkVersion Math.max(23, flutter.minSdkVersion)
         targetSdk flutter.targetSdkVersion
         versionCode flutter.versionCode

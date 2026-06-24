@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "YOUR_ANDROID_APP_ID",
         "android_client_info": {
-          "package_name": "com.emexp.PureApp"
+          "package_name": "com.wordsearch.WordMasters"
         }
       },
       "oauth_client": [],

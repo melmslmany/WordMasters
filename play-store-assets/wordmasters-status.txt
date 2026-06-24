@@ -1,0 +1,7 @@
+﻿============================================================
+App: Word Masters | ╪│┘è╪» ╪º┘ä┘â┘ä┘à╪º╪¬
+Package: com.wordsearch.WordMasters
+
+No releases found on standard tracks.
+
+Policy violations are NOT in this API - use Play Console UI or screenshots.
