@@ -32,7 +32,7 @@ SIGNING
   4. App/Game → Game
   5. Free / Paid → Free
   6. Accept declarations
-  7. Set package name: com.wordsearch.word_search_game
+  7. Package already created: com.wordsearch.WordMasters
 
 --- STEP 2: GRANT SERVICE ACCOUNT ACCESS ---
   Play Console → Users and permissions → Invite user
@@ -50,8 +50,8 @@ SIGNING
   Phone screenshots: upload all 5 from screenshots/phone/
   Category: Word → Word Search (or Puzzle)
   Tags: word search, puzzle, brain, vocabulary, word game
-  Contact email: (your developer email)
-  Privacy policy URL: REQUIRED (Firebase + AdMob) — host a page before publishing
+  Contact email: m.elmslmany@gmail.com
+  Privacy policy URL: https://games-dc530.web.app/privacy.html
 
 --- STEP 4: APP CONTENT (required before any release) ---
   [ ] Privacy policy URL
@@ -67,7 +67,7 @@ SIGNING
   cd %USERPROFILE%\.cursor\tools\google-play
 
   python upload_aab.py ^
-    --package com.emexp.PureApp ^
+    --package com.wordsearch.WordMasters ^
     --aab "E:\MyAppAPK\WordSearchGame\play-store-assets\word-masters-v1.0.0-build1.aab" ^
     --track internal ^
     --status completed ^
@@ -77,7 +77,7 @@ SIGNING
 
   Upload screenshots (optional via API):
   python upload_store_listing.py ^
-    --package com.wordsearch.word_search_game ^
+    --package com.wordsearch.WordMasters ^
     --screenshots-dir "E:\MyAppAPK\WordSearchGame\play-store-assets\screenshots\phone" ^
     --feature-graphic "E:\MyAppAPK\WordSearchGame\play-store-assets\graphics\feature-graphic-1024x500.png" ^
     --language en-US ^

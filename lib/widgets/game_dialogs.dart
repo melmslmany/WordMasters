@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../core/constants/app_colors.dart';
+import '../core/utils/url_opener.dart';
 import '../l10n/app_localizations.dart';
 import '../l10n/languages.dart';
 import '../models/category.dart';
@@ -75,14 +76,14 @@ Future<void> showSettingsDialog(
               const SizedBox(height: 16),
               GameButton(
                 label: l10n.dataPrivacy,
-                onTap: () {},
+                onTap: () => openDataPrivacy(),
                 color: AppColors.accent,
                 outlined: true,
               ),
               const SizedBox(height: 8),
               GameButton(
                 label: l10n.privacyPolicy,
-                onTap: () {},
+                onTap: () => openPrivacyPolicy(),
                 color: AppColors.primary,
                 outlined: true,
               ),
