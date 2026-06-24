@@ -1,0 +1,25 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "games-dc530",
+          "appId": "1:218664485005:android:822f958554b169a8bb22c4",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "games-dc530",
+          "configurations": {
+            "android": "1:218664485005:android:822f958554b169a8bb22c4",
+            "web": "1:218664485005:web:df0ebe5ee45cbe50bb22c4"
+          }
+        }
+      }
+    }
+  }
+}

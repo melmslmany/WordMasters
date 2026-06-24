@@ -1,0 +1,8 @@
+﻿============================================================
+App: ╪º┘ä╪┤╪«╪┤┘è╪«╪⌐
+Package: com.emexp.PureApp
+
+Track: production
+  1.0 | status=completed | versionCodes=1
+
+Policy violations are NOT in this API - use Play Console UI or screenshots.

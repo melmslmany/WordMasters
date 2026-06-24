@@ -1,0 +1,37 @@
+=== APP TITLE (max 30) ===
+Word Masters
+
+=== SHORT DESCRIPTION (max 80) ===
+Find hidden words, spell from letters & master neon word puzzles daily!
+
+=== FULL DESCRIPTION (max 4000) ===
+Word Masters — The Ultimate Word Puzzle Experience
+
+Train your brain with two exciting game modes in one beautiful neon-dark app:
+
+🎯 CLASSIC WORD SEARCH
+Drag across the grid to find hidden words — horizontal, vertical, and diagonal. Categories include Animals, Food, Nature, Sports, Colors, Countries, and many more. Each category offers up to 500 levels!
+
+🔤 WORD GUESS
+Tap glowing hex letter tiles to spell words and complete the level. Shuffle, undo, reset, and use hints when you need a boost.
+
+✨ WHY PLAYERS LOVE WORD MASTERS
+• 20+ themed categories with hundreds of levels
+• Two unique play styles — search & spell
+• Daily tasks and login rewards — earn coins every day
+• Hint system: reveal a word or a letter
+• Daily streak to keep your momentum
+• 11 UI languages: English, Arabic, Spanish, French, German, Italian, Turkish, Russian, Portuguese, Hindi, Indonesian
+• Stunning dark neon design — easy on the eyes, fun to play
+• Progress saved automatically — pick up where you left off
+
+🏆 PERFECT FOR
+Word game fans, vocabulary builders, puzzle lovers, and anyone who enjoys a quick brain workout during a break.
+
+Download Word Masters today — find words, spell them, and become a true Word Master!
+
+=== RELEASE NOTES v1.0.0 ===
+• Initial release of Word Masters
+• Classic Word Search + Word Guess modes
+• 20 categories, daily tasks, hints & rewards
+• 11 language support

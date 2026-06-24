@@ -1,0 +1,13 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Keystore is committed intentionally (see android/keystore/SIGNING_CREDENTIALS.txt)
+# key.properties
+# **/*.keystore
+# **/*.jks
