@@ -51,7 +51,7 @@ SIGNING
   Category: Word → Word Search (or Puzzle)
   Tags: word search, puzzle, brain, vocabulary, word game
   Contact email: m.elmslmany@gmail.com
-  Privacy policy URL: https://games-dc530.web.app/privacy.html
+  Privacy policy URL: https://games-dc530.web.app/wodrmasterprivacy.html
 
 --- STEP 4: APP CONTENT (required before any release) ---
   [ ] Privacy policy URL
